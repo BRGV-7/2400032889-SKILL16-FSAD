@@ -8,13 +8,13 @@ Full-stack Student CRUD application with:
 
 ### Backend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend"
+cd "/Users/bhargavnagam/FULL STACK SKILL/Skill-16/backend"
 mvn spring-boot:run
 ```
 
 ### Frontend
 ```bash
-cd "/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/frontend"
+cd "/Users/bhargavnagam/FULL STACK SKILL/Skill-16/frontend"
 npm install
 npm run dev
 ```
